@@ -3,7 +3,8 @@
 This file contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Weight-correction of carbon dioxide diffusion coefficient (DCO2) reduces its inter-individual variability and improves its correlation with blood carbon dioxide levels in neonates receiving high-frequency oscillatory ventilation."** *Pediatric Pulmonology*, 2017;1–7. 
 
 Authors: Gusztav Belteki MD, PhD, FRCPCH, Benjamin Lin BA, Colin Morley MD, FRCPCH
-Contact: gbelteki@aol.com. Please contact me via e-mail for any questions and queries.
+
+Email: gbelteki@aol.com. Please contact me via e-mail for any questions and queries.
 
 Link to the paper: https://doi.org/10.1002/ppul.23759
 
