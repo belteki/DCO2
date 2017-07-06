@@ -13,12 +13,19 @@ Ventilation data have been downloaded from Draeger Babylog VN500 neonatal ventil
 This code can be run and edited in IPython Notebook. 
 
 Running the code required the following packages:
+
 *program*   *version*
+
 Python      3.5.2
+
 numpy       1.11.1
+
 pandas      0.18.1
+
 matplotlib  1.5.3
+
 scipy       0.18.1
+
 
 I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
 
