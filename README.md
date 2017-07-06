@@ -8,11 +8,11 @@ Email: gbelteki@aol.com. Please contact me via e-mail for any questions and quer
 
 Link to the paper: https://doi.org/10.1002/ppul.23759
 
+
 Ventilation data have been downloaded from Draeger Babylog VN500 neonatal ventilator in csv format with 1Hz (1/sec) sampling rate.
 
-This code can be run and edited in IPython Notebook. 
 
-Running the code required the following packages:
+This code can be run and edited in IPython Notebook. Running the code required the following packages:
 
 *program*   *version*
 
