@@ -12,9 +12,7 @@ Link to the paper: https://doi.org/10.1002/ppul.23759
 Ventilation data have been downloaded from Draeger Babylog VN500 neonatal ventilator in csv format with 1Hz (1/sec) sampling rate.
 
 
-This code can be run in IPython Notebook. Running the code required the following packages:
-
-*program* 
+This code can be run in IPython Notebook. Running the code required the following packages:   
 Python      3.5.2  
 numpy       1.11.1  
 pandas      0.18.1  
