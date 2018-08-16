@@ -1,10 +1,10 @@
-# **Correlation of DCO2 and weight-corrected DCO2 with PCO2**
+# **Correlation of DCO2 and weight-corrected DCO2 with PCO2 during HFOV ventilation in newborns**
 
-The file **DCO2corr_Github.ipynb** contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Weight-correction of carbon dioxide diffusion coefficient (DCO2) reduces its inter-individual variability and improves its correlation with blood carbon dioxide levels in neonates receiving high-frequency oscillatory ventilation."** *Pediatric Pulmonology*, 2017;1–7. 
+The file **DCO2corr_Github.ipynb** contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Weight-correction of carbon dioxide diffusion coefficient (DCO2) reduces its inter-individual variability and improves its correlation with blood carbon dioxide levels in neonates receiving high-frequency oscillatory ventilation."** *Pediatr Pulmonology* 2017 Oct;52(10):1316-1322. 
 
 Authors: Gusztav Belteki MD, PhD, FRCPCH, Benjamin Lin BA, Colin Morley MD, FRCPCH
 
-Email: gbelteki@aol.com. Please contact me via e-mail for any questions and queries.
+Email: **gbelteki@aol.com**. Please contact me via e-mail for any questions and queries.
 
 Link to the paper: https://doi.org/10.1002/ppul.23759
 
